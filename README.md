@@ -3,10 +3,10 @@
 ## Deskripsi
 Modul ini merupakan bagian dari kelas **Data Analytics Essentials**
 (Cisco Networking Academy). Topik yang dipelajari mencakup:
--Organisasi proyek data analytics
--Nilai dan dampak data analytics
--Fase-fase proses analytics
--Penyusunan portofolio proyek
+- Organisasi proyek data analytics
+- Nilai dan dampak data analytics
+- Fase-fase proses analytics
+- Penyusunan portofolio proyek
 
 ## Tujuan Belajar
 Setelah menyelesaikan modul ini, saya dapat:
