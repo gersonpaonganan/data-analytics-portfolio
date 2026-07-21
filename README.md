@@ -30,4 +30,4 @@ belajar hal baru dunia analitic, belajar github
 
 ---
 
-*Dibuat oleh: [Nama Anda] | Kelas Data Analytics Essentials 2026*
+*Dibuat oleh: gerson paonganan | Kelas Data Analytics Essentials 2026*
