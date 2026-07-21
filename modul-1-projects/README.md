@@ -8,13 +8,13 @@ Modul ini merupakan bagian dari kelas **Data Analytics Essentials**
 - Penyusunan portofolio proyek
 ## Tujuan Belajar
 Setelah menyelesaikan modul ini, saya dapat:
-- [ ] Menjelaskan cara proyek data analytics diorganisasi
-- [ ] Menjelaskan nilai data analytics dalam konteks nyata
-- [ ]  Mendeskripsikan fase-fase proses analytics
-- [ ]  Membuat dan berbagi portofolio proyek
+- [x] Menjelaskan cara proyek data analytics diorganisasi
+- [x] Menjelaskan nilai data analytics dalam konteks nyata
+- [x]  Mendeskripsikan fase-fase proses analytics
+- [x]  Membuat dan berbagi portofolio proyek
   
   ## Refleksi Belajar
-[Tuliskan refleksi singkat Anda: apa yang paling menarik? Apa yang masihmembingungkan?
+[menrik untuk pengembanghan skill. membingungkan mengenai pengunaan github 
 
 ## Contoh Kasus Analytics yang Menginspirasi Saya
 [Tuliskan satu kasus nyata penggunaan data analytics yang Anda temukan menarik]
